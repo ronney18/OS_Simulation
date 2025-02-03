@@ -1,4 +1,4 @@
-/*  Michael Penta
+/*
  *  An OS simmulator with an interchangable process scheduler
  */
 package ossimulation;

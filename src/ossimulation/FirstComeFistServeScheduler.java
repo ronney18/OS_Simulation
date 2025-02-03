@@ -1,5 +1,4 @@
 /*
-    Michael Penta
     This is a first come first serve Process scheduler
     Each processes in the queue is run in the order
     in which they arrive and each process is run to completion before moving to next

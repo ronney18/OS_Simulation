@@ -1,5 +1,4 @@
 /*
-    Michael Penta
     CPU class takes a processes and runs the process for one cycle
     Execution is delayed to represent run time
 */

@@ -1,5 +1,4 @@
 /*
-Michael Penta
 A process with a number of cycles it requres, a unique ID, and a name
 A toString method is availabe 
 

@@ -1,5 +1,4 @@
 /*
-Michael Penta
 An interface for a process scheduler
 Your schedulers must implement this
 */
